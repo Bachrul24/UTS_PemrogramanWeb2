@@ -1,0 +1,2 @@
+Wilayah|Positif|Dirawat|Sembuh|Meninggal|Operator|Nim
+DKI Jakarta|370.582|3.463|357.100|6.160|Ananta Prasetiyanto|181011402710
